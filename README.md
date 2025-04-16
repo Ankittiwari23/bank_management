@@ -1,6 +1,6 @@
-#Banck Management 
+# Bank Management 
 
-##Features
+## Features
 
 Open Account: Allows users to create a new account by entering an account number and password. The balance is initialized to zero.
 
